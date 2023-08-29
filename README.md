@@ -22,4 +22,4 @@ response değişkeni, Shodan API'ye yapılan GET isteğinin sonucunu saklar.
 data değişkeni, API yanıtını JSON olarak çözerek içeriği temsil eder.
 ip_addresses listesi, JSON yanıtındaki eşleşen sonuçlardan çıkarılan IP adreslerini saklar.
 Script, çıkarılan IP adreslerini her biri ayrı bir satırda olacak şekilde ip_addresses.txt metin dosyasına yazar.
-Bu scripti çalıştırdığınızda, belirttiğiniz arama sorgusuyla eşleşen IP adreslerini ip_addresses.txt dosyasına kaydeder. Bu script, Shodan API'nin temel kullanımını gösteren bir örnektir ve daha karmaşık aramalar ve veri işleme işlemleri için genişletilebili
+Bu scripti çalıştırdığınızda, belirttiğiniz arama sorgusuyla eşleşen IP adreslerini ip_addresses.txt dosyasına kaydeder. Bu script, Shodan API'nin temel kullanımını gösteren bir örnektir ve daha karmaşık aramalar ve veri işleme işlemleri için genişletilebilir.
